@@ -8,17 +8,17 @@ Guia prático para iniciantes by Rocketseat :rocket:.
 
 # Cenas
 
-- [ x ] Você deseja criar um ponto na história.
+- [x] Você deseja criar um ponto na história.
 
-- [ ] Verificar mudanças feitas no seu projeto.
+- [x] Verificar mudanças feitas no seu projeto.
 
-- [ ] Começar uma nova funcionalidade no seu projeto, sem estragar o que foi feito.
+- [x] Começar uma nova funcionalidade no seu projeto, sem estragar o que foi feito.
 
-- [ ] Adicionar as novas funcionalidades ao seu projeto
+- [x] Adicionar as novas funcionalidades ao seu projeto
 
-- [ ] Deletar uma branch depois de adicionar em seu projeto.
+- [x] Deletar uma branch depois de adicionar em seu projeto.
 
-- [ ] Como colocar na nuvem.  :cloud:
+- [x] Como colocar na nuvem.  :cloud:
 
 ***
 
@@ -43,3 +43,10 @@ Guia prático para iniciantes by Rocketseat :rocket:.
 * git merge = *unir linhas do tempo*
 
 * git push = *envia alterações locais para o repositório remoto*
+
+***
+
+Para mais detalhes acompanhe o [vídeo](https://www.youtube.com/watch?v=2alg7MQ6_sI):rocket: by Rocketseat.
+
+![octocat github](https://s3.us-east-2.amazonaws.com/upload-icon/uploads/icons/png/9484177861548141924-256.png)
+
